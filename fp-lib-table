@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Heater_Ctrl)(type KiCad)(uri C:\Users\t9569bk\Documents\KiCad\Heat_Ctrl\Heater_Ctrl.pretty)(options "")(descr ""))
+  (lib (name Touch_Panel)(type KiCad)(uri "$(KIPRJMOD)\\Touch_Panel.pretty")(options "")(descr ""))
+)
